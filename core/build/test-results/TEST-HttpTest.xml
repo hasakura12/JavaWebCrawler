@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HttpTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-12-21T06:13:49" hostname="asahi02mac153" time="1.114">
+  <properties/>
+  <testcase name="getWithOneQuery2" classname="HttpTest" time="0.628"/>
+  <testcase name="getWithOneQuery" classname="HttpTest" time="0.485"/>
+  <system-out><![CDATA[Title: How to Walk: 15 Steps (with Pictures) - wikiHow(https://www.wikihow.com/Walk)
+Title: How to Walk Properly (with Pictures) - wikiHow(https://www.wikihow.com/Walk-Properly)
+Title: How to Walk: Dos and Don'ts, Plus Tips | Real Simple(https://www.realsimple.com/health/fitness-exercise/how-to-walk)
+Title: How to Walk with Proper Form and Technique | SparkPeople(http://www.sparkpeople.com/resource/fitness_articles.asp?id=1220)
+Title: How to walk: A step by step guide - Telegraph(http://www.telegraph.co.uk/lifestyle/wellbeing/7935172/How-to-walk-A-step-by-step-guide.html)
+Title: Pick Up the Pace! How to Walk Correctly & Improve Posture | Shape ...(https://www.shape.com/fitness/workouts/walking-posture-walk-way-learn-how-walk-correctly)
+Title: How to Walk: A Step-by-Step Guide – Experience Life(https://experiencelife.com/article/how-to-walk-a-step-by-step-guide/)
+Title: Stack Overflow - Where Developers Learn, Share, & Build Careers(https://stackoverflow.com/?)
+Title: Stack overflow - Wikipedia(https://en.wikipedia.org/wiki/Stack_overflow)
+Title: Stack Overflow Business | Stack Overflow(https://www.stackoverflowbusiness.com/)
+Title: Stack Overflow Talent - Hiring Developers | Stack Overflow(https://www.stackoverflowbusiness.com/talent)
+Title: Stack Overflow - Android Apps on Google Play(https://play.google.com/store/apps/details?id=com.stackexchange.stackoverflow&hl=en)
+Title: Stack Overflow Blog - A destination for all things related to ...(https://stackoverflow.blog/)
+Title: Podcasts - Stack Overflow Blog(https://stackoverflow.blog/podcasts/)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

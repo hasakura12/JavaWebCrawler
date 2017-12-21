@@ -1,0 +1,7 @@
+apply plugin: 'application' // this module is executable application
+
+mainClassName = 'App'
+
+dependencies {
+    compile project(':core') // this module depends on core module
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JavaScriptLibraryParserTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-12-21T06:13:50" hostname="asahi02mac153" time="1.364">
+  <properties/>
+  <testcase name="parseFromFile" classname="JavaScriptLibraryParserTest" time="0.003"/>
+  <testcase name="parseFromUrls" classname="JavaScriptLibraryParserTest" time="0.844"/>
+  <testcase name="parseHelper" classname="JavaScriptLibraryParserTest" time="0.001"/>
+  <testcase name="parseFromUrl" classname="JavaScriptLibraryParserTest" time="0.515"/>
+  <system-out><![CDATA[JS library file name parsed:
+    -http://localhost/libraries/javascript/jquery_1.6.4.min.js
+    -http://localhost/libraries/javascript/test.js
+    -https://mbp.yimg.com/sy/ss/rapid-3.42.4.js
+JS library file name parsed:
+    -https://mbp.yimg.com/sy/rq/darla/3-0-7/js/g-r-min.js
+    -https://mbp.yimg.com/sy/zz/combo?yui:/3.18.0/yui/yui-min.js
+    -https://mbp.yimg.com/sy/ss/rapid-3.42.4.js
+    -https://mbp.yimg.com/sy/os/mit/td/aperollup-min-98a54755_desktop_advance.js
+    -https://mbp.yimg.com/sy/os/mit/td/td-applet-stream-atomic-2.0.1011/r-min.js
+    -https://mbp.yimg.com/sy/os/mit/td/td-applet-mega-header-1.0.640/r-min.js
+    -https://mbp.yimg.com/sy/os/mit/td/td-applet-viewer-0.1.2715/r-min.js
+    -https://mbp.yimg.com/sy/os/mit/td/td-applet-navlinks-atomic-0.0.90/r-min.js
+    -https://mbp.yimg.com/sy/os/mit/td/td-applet-fp-utils-0.1.285/r-min.js
+    -https://mbp.yimg.com/sy/os/yaft/yaft-0.3.11.min.js
+    -https://mbp.yimg.com/sy/os/yaft/yaft-plugin-aftnoad-0.1.5.min.js
+JS library file name parsed:
+    -http://localhost/libraries/javascript/jquery_1.6.4.min.js
+    -http://localhost/libraries/javascript/test.js
+    -https://mbp.yimg.com/sy/ss/rapid-3.42.4.js
+JS library file name parsed:
+    -http://localhost/libraries/javascript/jquery_1.6.4.min.js
+    -http://localhost/libraries/javascript/test.js
+    -https://mbp.yimg.com/sy/ss/rapid-3.42.4.js
+JS library file name parsed:
+    -http://localhost/libraries/javascript/jquery_1.6.4.min.js
+    -http://localhost/libraries/javascript/test.js
+    -https://mbp.yimg.com/sy/ss/rapid-3.42.4.js
+JS library file name parsed:
+    -https://mbp.yimg.com/sy/rq/darla/3-0-7/js/g-r-min.js
+    -https://mbp.yimg.com/sy/zz/combo?yui:/3.18.0/yui/yui-min.js
+    -https://mbp.yimg.com/sy/ss/rapid-3.42.4.js
+    -https://mbp.yimg.com/sy/os/mit/td/aperollup-min-98a54755_desktop_advance.js
+    -https://mbp.yimg.com/sy/os/mit/td/td-applet-stream-atomic-2.0.1011/r-min.js
+    -https://mbp.yimg.com/sy/os/mit/td/td-applet-mega-header-1.0.640/r-min.js
+    -https://mbp.yimg.com/sy/os/mit/td/td-applet-viewer-0.1.2715/r-min.js
+    -https://mbp.yimg.com/sy/os/mit/td/td-applet-navlinks-atomic-0.0.90/r-min.js
+    -https://mbp.yimg.com/sy/os/mit/td/td-applet-fp-utils-0.1.285/r-min.js
+    -https://mbp.yimg.com/sy/os/yaft/yaft-0.3.11.min.js
+    -https://mbp.yimg.com/sy/os/yaft/yaft-plugin-aftnoad-0.1.5.min.js
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
