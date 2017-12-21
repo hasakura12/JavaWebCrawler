@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="JavaScriptLibraryParserTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-12-21T06:13:50" hostname="asahi02mac153" time="1.364">
+<testsuite name="JavaScriptLibraryParserTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-12-21T06:20:43" hostname="asahi02mac153" time="1.215">
   <properties/>
-  <testcase name="parseFromFile" classname="JavaScriptLibraryParserTest" time="0.003"/>
-  <testcase name="parseFromUrls" classname="JavaScriptLibraryParserTest" time="0.844"/>
+  <testcase name="parseFromFile" classname="JavaScriptLibraryParserTest" time="0.002"/>
+  <testcase name="parseFromUrls" classname="JavaScriptLibraryParserTest" time="0.786"/>
   <testcase name="parseHelper" classname="JavaScriptLibraryParserTest" time="0.001"/>
-  <testcase name="parseFromUrl" classname="JavaScriptLibraryParserTest" time="0.515"/>
+  <testcase name="parseFromUrl" classname="JavaScriptLibraryParserTest" time="0.425"/>
   <system-out><![CDATA[JS library file name parsed:
     -http://localhost/libraries/javascript/jquery_1.6.4.min.js
     -http://localhost/libraries/javascript/test.js

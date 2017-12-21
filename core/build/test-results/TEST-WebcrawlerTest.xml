@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="WebcrawlerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-12-21T06:13:52" hostname="asahi02mac153" time="2.382">
+<testsuite name="WebcrawlerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-12-21T06:20:45" hostname="asahi02mac153" time="3.86">
   <properties/>
   <testcase name="sortByValuesInDescendingOrder" classname="WebcrawlerTest" time="0.001"/>
-  <testcase name="getTopNLibrariesWithMockedClawler" classname="WebcrawlerTest" time="0.014"/>
-  <testcase name="getTopNLibraries" classname="WebcrawlerTest" time="2.367"/>
+  <testcase name="getTopNLibrariesWithMockedClawler" classname="WebcrawlerTest" time="0.011"/>
+  <testcase name="getTopNLibraries" classname="WebcrawlerTest" time="3.848"/>
   <system-out><![CDATA[Title: How to Walk: 15 Steps (with Pictures) - wikiHow(https://www.wikihow.com/Walk)
 Title: How to Walk Properly (with Pictures) - wikiHow(https://www.wikihow.com/Walk-Properly)
 Title: How to Walk: Dos and Don'ts, Plus Tips | Real Simple(https://www.realsimple.com/health/fitness-exercise/how-to-walk)
